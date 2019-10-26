@@ -15,7 +15,7 @@ int main()
 
     inc1 = sal*0.05;
     inc2 = sal*0.1;
-    inc3 = sal*0.15;
+    inc3 = sal*0.2;
 
     if (sal<5000)
         new_sal=sal+inc1;
